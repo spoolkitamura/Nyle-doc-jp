@@ -1,4 +1,4 @@
-# Nyle-doc-jp
+# nyle-doc-jp
 
-### [Wiki](https://github.com/spoolkitamura/Nyle-doc-jp/wiki) をご覧ください。
+### [Wiki](https://github.com/spoolkitamura/nyle-doc-jp/wiki) をご覧ください。
 
