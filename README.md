@@ -1,4 +1,4 @@
 # Nyle-doc-jp
 
-### [Wiki](https://github.com/spoolkitamura/Nyle-doc-jp/wiki) ‚ğ‚²——‚­‚¾‚³‚¢B
+### [Wiki](https://github.com/spoolkitamura/Nyle-doc-jp/wiki)ã‚’ã”è¦§ãã ã•ã„ã€‚
 
